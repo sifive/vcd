@@ -1,7 +1,7 @@
 [![NPM version](https://img.shields.io/npm/v/vcd-stream.svg)](https://www.npmjs.org/package/vcd-stream)
-[![](https://github.com/wavedrom/vcd/workflows/Linux/badge.svg)](https://github.com/wavedrom/vcd/actions/workflows/linux.yml)
-[![](https://github.com/wavedrom/vcd/workflows/MacOS/badge.svg)](https://github.com/wavedrom/vcd/actions/workflows/macos.yml)
-[![](https://github.com/wavedrom/vcd/workflows/Windows/badge.svg)](https://github.com/wavedrom/vcd/actions/workflows/windows.yml)
+[![](https://github.com/sifive/vcd/workflows/Linux/badge.svg)](https://github.com/sifive/vcd/actions/workflows/linux.yml)
+[![](https://github.com/sifive/vcd/workflows/MacOS/badge.svg)](https://github.com/sifive/vcd/actions/workflows/macos.yml)
+[![](https://github.com/sifive/vcd/workflows/Windows/badge.svg)](https://github.com/sifive/vcd/actions/workflows/windows.yml)
 
 Value Change Dump ([VCD](https://en.wikipedia.org/wiki/Value_change_dump)) parser using [llparse](https://github.com/nodejs/llparse)
 

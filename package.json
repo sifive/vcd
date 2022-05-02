@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wavedrom/vcd.git"
+    "url": "git+https://github.com/sifive/vcd.git"
   },
   "keywords": [
     "VCD"
@@ -36,9 +36,9 @@
   "author": "Aliaksei Chapyzhenka",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wavedrom/vcd/issues"
+    "url": "https://github.com/sifive/vcd/issues"
   },
-  "homepage": "https://github.com/wavedrom/vcd#readme",
+  "homepage": "https://github.com/sifive/vcd#readme",
   "dependencies": {
     "bindings": "^1.5.0",
     "dot-prop": "^6.0.1",
